@@ -1,6 +1,3 @@
-# Final_Programacion_II
-Thallys Gomes Leandro (145287)
-
 # Final - Programación II
 
 ### Alumno: Gomes Leandro, Thallys (145287) 
